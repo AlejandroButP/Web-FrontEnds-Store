@@ -1,0 +1,1 @@
+On this occasion we have the design of a page with HTML5 and CSS using the BEM methodology in which the code is structured in CSS in such a way that everything is left with Classes, subclasses and modifiers, this page is from a shirt store with bookstore logos used in frontend
